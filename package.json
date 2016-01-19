@@ -1,7 +1,7 @@
 {
-  "name": "LRMA2",
+  "name": "Frontend Boilerplate",
   "version": "1.0.0",
-  "description": "App to visualize customer journeys (Laterooms MA 2)",
+  "description": "Boilerplate App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,8 +24,6 @@
   },
   "jspm": {
     "dependencies": {
-      "bootstrap": "github:twbs/bootstrap@^3.3.6",
-      "jquery": "github:components/jquery@^2.1.4",
       "react": "npm:react@^0.14.3",
       "react-dom": "npm:react-dom@^0.14.3"
     },
